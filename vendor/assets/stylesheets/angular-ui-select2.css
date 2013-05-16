@@ -1,0 +1,6 @@
+/*
+ * This is just a proxy to leaflet-rails gem stylesheets
+ * to make require consistent inside rails app
+ *
+ *= require select2
+ */
