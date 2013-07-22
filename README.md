@@ -13,13 +13,13 @@ gem 'angular-ui-select2-rails'
 Add the following directive to your Javascript manifest file (application.js):
 
 ```js
-//= require angular-ui-select2-rails
+//= require angular-ui-select2
 ```
 
 Add the following directive to your CSS manifest file (application.css):
 
 ```css
-*= require angular-ui-select2-rails
+*= require angular-ui-select2
 ```
 
 
