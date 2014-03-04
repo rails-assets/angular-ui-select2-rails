@@ -1,6 +1,6 @@
 # angular-ui-select2-rails
 
-[angular-ui-select2](https://github.com/angular-ui/ui-select2) packaged for Rails assets pipeline
+[angular-ui-select2](https://github.com/angular-ui/ui-select2) v0.0.5 packaged for Rails assets pipeline
 
 ## Usage
 
